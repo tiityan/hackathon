@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 [gd_scene load_steps=2 format=3 uid="uid://dnewx1arwxl13"]
+=======
+[gd_scene load_steps=2 format=3 uid="uid://dxardghmb6bp2"]
+>>>>>>> Stashed changes
 
 [ext_resource type="Script" path="res://Presenter.cs" id="1_s68lj"]
 
